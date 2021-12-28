@@ -1,5 +1,5 @@
-DR.N RESOLUSI
-- Konsisten untuk belajar ngoding seminggu 5 hari
-- Membuat Platform untuk pengelolaan keuangan 
-- Membuat Forum diskusi pekerjaan
-- Membuat Palatform Rencana tugas 
+DR.N id
+- Menu
+- Sejarah 
+- Akun
+- Kontak 
